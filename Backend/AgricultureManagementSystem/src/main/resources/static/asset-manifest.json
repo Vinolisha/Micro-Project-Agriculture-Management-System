@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.110a1bfd.css",
+    "main.js": "/static/js/main.1ee81523.js",
+    "static/js/453.a0f7c929.chunk.js": "/static/js/453.a0f7c929.chunk.js",
+    "static/media/MicrosoftTeams-video (8).mp4": "/static/media/MicrosoftTeams-video (8).9f821cb314a0c030b465.mp4",
+    "static/media/MicrosoftTeams-video (4).mp4": "/static/media/MicrosoftTeams-video (4).a10fd4155ebfb3d93673.mp4",
+    "static/media/MicrosoftTeams-video (9).mp4": "/static/media/MicrosoftTeams-video (9).4c12a0b0886c8b30da26.mp4",
+    "static/media/organicveg.jpg": "/static/media/organicveg.2cbcfa413d2d0972f469.jpg",
+    "static/media/InShot_20231230_231303938.jpg": "/static/media/InShot_20231230_231303938.9229bc8121600af73042.jpg",
+    "static/media/bundlefruits.jpg": "/static/media/bundlefruits.a076dec2fb896f28f48b.jpg",
+    "static/media/seed1.jpg": "/static/media/seed1.929642b2a3dd4d5dafb7.jpg",
+    "static/media/tool.jpg": "/static/media/tool.d2f80b091e7b79a7f40a.jpg",
+    "static/media/seedhome.jpg": "/static/media/seedhome.c8750f22502879ce638e.jpg",
+    "static/media/Background.jpg": "/static/media/Background.9b6506fea8ffc6978481.jpg",
+    "static/media/management1.jpg": "/static/media/management1.2c49700c916aa3c174cd.jpg",
+    "static/media/seeds.jpg": "/static/media/seeds.c53617576bd009275031.jpg",
+    "static/media/organic forming.jpg": "/static/media/organic forming.b84f555c5694030e5ccd.jpg",
+    "static/media/tools.jpg": "/static/media/tools.0ce15c3dbf9ad937118d.jpg",
+    "static/media/fertilize.jpg": "/static/media/fertilize.ae3f12dc1419d2e1b389.jpg",
+    "static/media/disease.jpg": "/static/media/disease.8eb9e73fcf10e369f080.jpg",
+    "static/media/vegetables.jpg": "/static/media/vegetables.c10e9c46350b9cefb0bd.jpg",
+    "static/media/farming.jpg": "/static/media/farming.b420faa3fb033ccaa0d5.jpg",
+    "static/media/vegetables4.jpg": "/static/media/vegetables4.61ddb16e0fdd1f42bfc6.jpg",
+    "static/media/fruits.jpg": "/static/media/fruits.3071d002747a9f0c29a4.jpg",
+    "index.html": "/index.html",
+    "main.110a1bfd.css.map": "/static/css/main.110a1bfd.css.map",
+    "main.1ee81523.js.map": "/static/js/main.1ee81523.js.map",
+    "453.a0f7c929.chunk.js.map": "/static/js/453.a0f7c929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.110a1bfd.css",
+    "static/js/main.1ee81523.js"
+  ]
+}
